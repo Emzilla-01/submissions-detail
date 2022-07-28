@@ -1,4 +1,4 @@
-# submissions-detail-729672772-
+# submissions-detail
 solutions &amp; attempts at common algorithms questions 
 
 Please consider this as a 'living document' while author attempts & learns variety of algo questions.
