@@ -1,7 +1,7 @@
 '''
 https://leetcode.com/problems/is-subsequence/submissions/
 
-Intuitively, a two-pointer, but there are divide & conquer, hashmap, & Levenshtein distance matrix solutions as well. Some top solutions use hashmap()
+Intuitively, a two-pointer, but there are divide & conquer, hashmap, & Levenshtein distance matrix solutions as well.
 '''
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
